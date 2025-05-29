@@ -1,1 +1,16 @@
 
+{
+  "name": "Nexar",
+  "symbol": "NXR",
+  "type": "ERC20",
+  "description": "Nexar (NXR) é uma criptomoeda projetada para o futuro das finanças digitais, oferecendo escalabilidade, segurança e usabilidade em um ecossistema descentralizado.",
+  "website": "https://Mathias761rgb.github.io/Nexar-Cryptocurrency-Website/",
+  "whitepaper": "https://github.com/Mathias761rgb/Whitepaper-nexar/raw/main/Nexar_Whitepaper_Atualizado_2025.pdf",
+  "social": {
+    "telegram": "https://t.me/NexarNXR",
+    "twitter": "https://twitter.com/NexarNxr",
+    "github": "https://github.com/Mathias761rgb/Whitepaper-nexar"
+  },
+  "explorer": "https://etherscan.io/token/0x9844E265c3b37B7dc8c512B5A77a521e45494ac2",
+  "status": "active"
+}
